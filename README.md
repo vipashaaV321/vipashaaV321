@@ -19,7 +19,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipashaav321&label=Profile%20views&color=0e75b6&style=flat" alt="vipashaav321" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipashaav321" alt="vipashaav321" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
