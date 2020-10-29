@@ -17,5 +17,7 @@
 
 🦋 Full Stack Engineer
 
+![image title](https://rushter.com/counter.svg)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vipashaaV321)
 
