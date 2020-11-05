@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipashaav321&label=Profile%20views&color=0e75b6&style=flat" alt="vipashaav321" /> </p>
 
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -38,7 +38,7 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vipashaav321&show_icons=true&locale=en&layout=compact" alt="vipashaav321" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vipashaav321&show_icons=true&locale=en" alt="vipashaav321" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=vipashaav321&show_icons=true&locale=en" alt="vipashaav321" /></p>
 
 
 
