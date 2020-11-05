@@ -1,6 +1,6 @@
 # vipashaaV321
 <h2> Hi, I'm Vipasha Vaghela ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="230">
+<img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="400">
 </em>
 
 ❤️ Code...
