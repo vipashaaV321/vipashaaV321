@@ -20,7 +20,8 @@
 <br/>
 <br/>
 ❤️ Code...
-
+ 
+ 
 🧩 Critical Thinker
 
 🌈 Creative User Interface Designer
@@ -38,7 +39,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipashaav321&label=Profile%20views&color=0e75b6&style=flat" alt="vipashaav321" /> </p>-->
 
 <!--![GitHub metrics](https://metrics.lecoq.io/vipashaaV321)  -->
-
+<br/>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vipashaaV321)  
 
 <!-- BLOG-POST-LIST:START -->
