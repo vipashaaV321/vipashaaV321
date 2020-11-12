@@ -2,7 +2,9 @@
 <h2> Hi, I'm Vipasha Vaghela, currently pursuing Bachelor Of Engineering in Information Technology</h2>
 <img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="400">
 </em>
+
 <br/>
+
 ❤️ Code...
 
 🧩 Critical Thinker
