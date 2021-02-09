@@ -42,25 +42,6 @@
 
 <h3 align="left">Primary Languages and Tools:</h3>
 <br/>
-Javascript
- <br/>
- 
-Golang
-<br/>
-
-Reactjs
-
-Angular 
-
-Nodejs
-
-PostgreSQL 
-
-MongoDB 
-
-IONIC
-
-React Native
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -93,6 +74,7 @@ React Native
 ![DataScience](https://img.shields.io/badge/datascience-purple?style=flat-square&logo=ds)
 ![React native](https://img.shields.io/badge/reactnative-lightgrey?style=flat-square&logo=react)
 ![ionic](https://img.shields.io/badge/ionic-brightgreen?style=flat-square&logo=ionic)
+![GO](https://img.shields.io/badge/golang-blueviolet?style=flat-square&logo=go)
 
 
 
