@@ -43,8 +43,7 @@
 <h3 align="left">Primary Languages and Tools:</h3>
 <br/>
 Javascript
- 
- 
+ <br/>
 Golang
 
 Reactjs
