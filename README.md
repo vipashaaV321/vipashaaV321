@@ -2,7 +2,7 @@
 <h2> Hi, I'm Vipasha Vaghela, currently pursuing Bachelor Of Engineering in Information Technology</h2>
 
 <p><img align='right' src="https://github-readme-stats.vercel.app/api?username=vipashaav321&show_icons=true&locale=en" alt="vipashaav321" width="400" /></p>
-<p><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=vipashaav321&show_icons=true&locale=en&layout=compact" alt="vipashaav321" width="400" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipashaav321&show_icons=true&locale=en&layout=compact" alt="vipashaav321" width="400" /></p>
 
 <!--<img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="400">-->
 </em>
