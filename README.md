@@ -17,8 +17,6 @@
 
 ✨ Passionate Learner 
 
-🛠️ Research & Development 
-
 🦋 Full Stack Engineer
 
 👩🏻‍🎓 Student @LJIET
