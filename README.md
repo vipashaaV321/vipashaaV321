@@ -1,5 +1,5 @@
 # vipashaaV321
-<h2> Hi, I'm Vipasha Vaghela, currently pursuing Bachelor Of Engineering in Information Technology</h2>
+<h2> Hi, I'm Vipasha Vaghela, currently pursuing MTech in ICT-Machine Learning</h2>
 
 <p><img align='right' src="https://github-readme-stats.vercel.app/api?username=vipashaav321&show_icons=true&locale=en" alt="vipashaav321" width="400" /></p>
 
@@ -11,7 +11,7 @@
  
 🧩 Critical Thinker
 
-🌈 Creative User Interface Designer
+🌈 Data Science and Machine Learning Enthusiast 
 
 🤔 Curious 
 
@@ -19,7 +19,7 @@
 
 🦋 Full Stack Engineer
 
-👩🏻‍🎓 Student @LJIET
+👩🏻‍🎓 Student @ DAIICT
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipashaav321&label=Profile%20views&color=0e75b6&style=flat" alt="vipashaav321" /> </p>-->
 
