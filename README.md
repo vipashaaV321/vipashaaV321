@@ -6,20 +6,11 @@
 <!--<img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="400">-->
 </em>
 
-
-❤️ Code...
- 
-🧩 Critical Thinker
-
-🌈 Data Science and Machine Learning Enthusiast 
-
-🤔 Curious 
+🧩 Data Science and Machine Learning Enthusiast 
 
 ✨ Passionate Learner 
 
-🦋 Full Stack Engineer
-
-👩🏻‍🎓 Student @ DAIICT
+👩🏻‍🎓 MTech(ICT-ML) Student @ DAIICT
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipashaav321&label=Profile%20views&color=0e75b6&style=flat" alt="vipashaav321" /> </p>-->
 
