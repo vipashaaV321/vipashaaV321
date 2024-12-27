@@ -6,7 +6,7 @@
 
 ✨ Passionate Learner 
 
-👩🏻‍🎓 MTech(ICT-ML) Student @ DAIICT
+👩🏻‍🎓 MTech(ICT-ML) Student @ DAIICT 2024
 
 
 <h3 align="left">Connect with me:</h3>
