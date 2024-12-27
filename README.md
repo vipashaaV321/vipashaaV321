@@ -1,10 +1,6 @@
 # vipashaaV321
 <h2> Hi, I'm Vipasha Vaghela, currently pursuing MTech in ICT-Machine Learning</h2>
 
-<p><img align='right' src="https://github-readme-stats.vercel.app/api?username=vipashaav321&show_icons=true&locale=en" alt="vipashaav321" width="400" /></p>
-
-<!--<img align='right' src="https://github.com/vipashaaV321/vipashaaV321/blob/main/Vipasha_Vaghela.jpg" width="400">-->
-</em>
 
 🧩 Data Science and Machine Learning Enthusiast 
 
